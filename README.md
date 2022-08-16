@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Otega or @don2dusk
 - 👀 I’m interested in Flutter, Python and Web Development
-- 🌱 I’m currently learning Flutter and Python
+- 🌱 I constantly look forward learning more. Focused on Flutter and Python right now.
 - 💞️ I’m looking to collaborate on nice apps and projects
 - 📫 
 

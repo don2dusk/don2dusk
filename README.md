@@ -7,4 +7,4 @@
 ## <span style="color:blue">My Stats</span></h2>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=don2dusk&show_icons=true&theme=tokyonight&custom_title=Otega's%20%Github%20%Stats&hide=issues&icon_color=0047AB)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=don2dusk&theme=tokyonight&layout=compact&hide=c++,ruby,cmake,swift,kotlin,objective-c)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=don2dusk&theme=tokyonight&layout=compact&hide=,ruby,cmake,swift,kotlin,objective-c)](https://github.com/anuraghazra/github-readme-stats)

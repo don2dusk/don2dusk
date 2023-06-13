@@ -1,7 +1,7 @@
 # About Me 🧑🏾💻
 - 👋 Hi, I’m Otega
 
-- 🛠️ I'm a Flutter Developer and Frontend web developer with 2+ years of experience.
+- 🛠️ I'm a Software Developer and Frontend web developer with 2+ years of experience.
 
 - 🌱 I constantly look forward learning new things and creating cool projects
 

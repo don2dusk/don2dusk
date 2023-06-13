@@ -1,7 +1,7 @@
 # About Me 🧑🏾💻
 - 👋 Hi, I’m Otega
 
-- 👀 I’m interested in Flutter, Python and Web Development
+- 🛠️ I'm a Flutter Developer and Frontend web developer with 2+ years of experience.
 
 - 🌱 I constantly look forward learning new things and creating cool projects
 
@@ -10,7 +10,7 @@
 ## Languages and Technologies 🛠️ 
 <p align="right"> 
 <div align = "center">
-<img src = "https://skillicons.dev/icons?i=python,cs,cpp,flutter,dart,nodejs,java&theme=dark" height = "60px">
+<img src = "https://skillicons.dev/icons?i=python,cs,css,html,javascript,flutter,dart,nodejs,java&theme=dark" height = "60px">
 </div>
 </p>
 

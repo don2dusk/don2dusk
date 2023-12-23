@@ -10,7 +10,7 @@
 ## Languages and Technologies 🛠️ 
 <p align="right"> 
 <div align = "center">
-<img src = "https://skillicons.dev/icons?i=python,cs,css,html,javascript,flutter,dart,nodejs,java&theme=dark" height = "60px">
+<img src = "https://skillicons.dev/icons?i=css,html,typescript,flutter,dart,nodejs&theme=dark" height = "60px">
 </div>
 </p>
 
